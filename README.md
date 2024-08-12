@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lengyandong/lengyandong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leng-yd/leng-yd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lengyandong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /><br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leng-yd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /><br />
 
 - 🧑‍💻 A student & programmer who pursues excellence and is keen on front-end development
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 - 🌟 Willing to strive for the ideal! (For the people of the world!)
 
-<img ailgn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengyandong&layout=compact">
+<img ailgn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leng-yd&layout=compact">
